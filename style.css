@@ -1,0 +1,28 @@
+.container {
+    width: 40%;
+    margin: 20px auto 0px auto;
+}
+
+.removed {
+    color: #b8b8b8;
+}
+
+.removed label {
+    text-decoration: line-through;
+}
+
+ul li {
+    list-style-type: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bordered{
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.pink{
+    color:#f72585;
+}
